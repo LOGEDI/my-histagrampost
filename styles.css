@@ -1,0 +1,34 @@
+
+body {
+   background-color:black;
+}
+
+ 
+
+ .post-header{
+   display: flex;
+   justify-content: space-between;
+ }
+
+ .post-image > img{
+   margin:auto;
+   width:100%;
+ }
+
+ .header-left{
+   display:flex;
+   justify-content:start;
+ }
+ 
+ .html-icon{
+  margin-right: 8px;
+  margin-bottom: 8px;
+  margin-left: 10px;
+ }
+ .post-footer {
+  display:flex;
+  justify-content: space-between;
+ }
+ 
+
+ 
